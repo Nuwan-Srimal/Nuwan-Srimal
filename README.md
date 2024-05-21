@@ -1,3 +1,4 @@
+![logo](https://github.com/Prof-LoKi79/Nuwan-Srimal/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nuwan Srimal</h1>
 <h3 align="center">A passionate Coder from Sri Lanka</h3>
 

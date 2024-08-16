@@ -1,4 +1,4 @@
-![logo](https://github.com/Prof-LoKi79/Nuwan-Srimal/blob/main/Github%20Banner.png)
+![logo](https://github.com/Prof-LoKi79/ashutosh/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nuwan Srimal</h1>
 <h3 align="center">I'm a Student from Sri Lanka.</h3>
 
@@ -27,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://discord.gg/W42kXxe38u"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuwan-Srimal-pmishra&show_icons=true&locale=en&layout=compact" alt="Nuwan-Srimal-pmishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuwan-Srimal-pmishra&show_icons=true&locale=en" alt="Nuwan-Srimal-pmishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nuwan-Srimal-pmishra&" alt="Nuwan-Srimal-pmishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>

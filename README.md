@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Nuwan Srimal</h1>
 <h3 align="center">I'm a Student from Sri Lanka.</h3>
 
+<br>
+<div style ="display:flex;" align="center">
+  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
+  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
+  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+</div>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prof-loki79&label=Profile%20views&color=0e75b6&style=flat" alt="prof-loki79" /> </p>

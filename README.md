@@ -1,4 +1,4 @@
-![logo](https://github.com/Prof-LoKi79/ashutosh/blob/main/Github%20Banner.png)
+![logo](https://github.com/Nuwan-Srimal/ashutosh/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nuwan Srimal</h1>
 <h3 align="center">I'm a Student from Sri Lanka.</h3>
 

@@ -45,24 +45,33 @@
 
 
 
+<hr>
+<p align="center">
 
 
-## Connect with Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+
+
+
+### Connect with Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 <p align="left">
 <a href="https://fb.com/nuwan srimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwan srimal" height="30" width="40" /></a>
 <a href="https://instagram.com/nuwan_sri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwan_sri_" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/edEe8tr42D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/edEe8tr42D" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">
+
+
 
 <div align="center">
 
 
 
+<hr>
+<p align="center">
 
 
-## Languages and Tools <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+
+### Languages and Tools <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
 
 
@@ -113,7 +122,7 @@
 <div align="right">
 <br/>
 
-<a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <div align="left">
 <br/>
 
@@ -187,28 +196,35 @@
 <div align="center">
 <br/>
 
-## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
-<img src="https://github-profile-trophy.vercel.app/?username=Nuwan-Srimal&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+
+
+<hr>
+<p align="center">
+
+### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Nuwan-Srimal&theme=juicyfresh&no-bg=true" />
 <div align="center">
 
 
-
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-
-
-
-
+<hr>
 <p align="center">
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nuwan-Srimal&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Srimal&theme=blue-green)
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuwan-Srimal&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-alt="adam-pw" />
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuwan-Srimal&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 
-</p>
+
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuwan-Srimal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nuwan-Srimal&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
+
 
 
 <h4 align="center">
@@ -245,25 +261,31 @@ alt="adam-pw" />
 
 
 
+<hr>
+<p align="center">
 
 
-
-## <p align="center">Support <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;"> </p>
+### <p align="center">Support <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;"> </p>
 <br>
 <br>
+
+
 
 <p><a href="https://discord.gg/W42kXxe38u"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
+<hr>
+<p align="center">
 
-
-## Here is a random joke that'll make you laugh! 😂
+### Here is a random joke that'll make you laugh! 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<hr>
+<p align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
 
-#
+
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)

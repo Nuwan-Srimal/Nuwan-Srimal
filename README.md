@@ -76,9 +76,10 @@
 
 
 <div align="left">
-  
-### 👉 Programming languages & Frontend Development
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> 
+
+### 👉 Programming languages & Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -106,13 +107,13 @@
   &emsp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  </a>
+  <br>
+  <br>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
-  <br>
-  <br>
    &emsp;
   <a href="https://getbootstrap.com" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
@@ -122,7 +123,7 @@
 <div align="right">
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 <div align="left">
 <br/>
 

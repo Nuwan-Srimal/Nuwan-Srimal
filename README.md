@@ -136,8 +136,6 @@
 ### 👉 Graphic Designing
 <p align="left">
   &emsp;
-  	
-  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
@@ -149,6 +147,8 @@
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
   </a>
+  <br>
+  <br>
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>

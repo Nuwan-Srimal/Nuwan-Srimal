@@ -1,3 +1,6 @@
+![logo](https://github.com/Nuwan-Srimal/Nuwan-Srimal/blob/main/Github%20Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Nuwan Srimal</h1>
 
 <br>

@@ -53,10 +53,10 @@
 
 
 ### Connect with Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
-<p align="left">
-<a href="https://fb.com/nuwan srimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwan srimal" height="30" width="40" /></a>
-<a href="https://instagram.com/nuwan_sri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwan_sri_" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/edEe8tr42D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/edEe8tr42D" height="30" width="40" /></a>
+<p align="Center">
+<a href="https://fb.com/nuwan srimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwan srimal" height="50" width="40" /></a>
+<a href="https://instagram.com/nuwan_sri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwan_sri_" height="50" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/edEe8tr42D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/edEe8tr42D" height="5" width="40" /></a>
 </p>
 
 
@@ -207,7 +207,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuwan-Srimal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nuwan-Srimal&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
+<br>
+<br>
 <hr>
 
 

@@ -34,7 +34,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ How to reach me **nuwansrimal68@gmail.com**<br>
+✔ How to reach me **nuwan79723@gmail.com**<br>
 ✔ I’m currently learning **Javascript, nodejs**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning <br>

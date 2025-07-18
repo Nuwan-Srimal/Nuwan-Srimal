@@ -58,8 +58,8 @@
 ### Connect with Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 <p align="Center">
 <a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwan srimal" height="50" width="40" /></a>
-<a href="https://instagram.com/nuwan_sri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwan_sri_" height="50" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/edEe8tr42D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/edEe8tr42D" height="50" width="40" /></a>
+<a href="https://instagram.com/nuwan_srimal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwan_srimal_" height="50" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/edEe8tr42D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GEFmrK73xC" height="50" width="40" /></a>
 </p>
 
 

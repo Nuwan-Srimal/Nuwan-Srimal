@@ -1,4 +1,4 @@
-![logo](https://github.com/Nuwan-Srimal/Nuwan-Srimal/blob/main/1724083453821.gif)
+![logo](https://github.com/Nuwan-Srimal/Nuwan-Srimal/blob/main/helloworld.gif)
 
 
 <h1 align="center">Hi 👋, I'm Nuwan Srimal</h1>

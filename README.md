@@ -5,13 +5,11 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
-  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+  <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2021/03/Brief-History-of-Programming-Languages.jpg" style="width:1920px"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student+In+Sri+Lanka;Junior+Developer;%20AI%20|%20UI%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student+In+Sri+Lanka;Junior+Developer;%20AI%20|%20UI%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=1000&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Junior Coder. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>

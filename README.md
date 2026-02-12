@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student+In+Sri+Lanka;Junior+Developer;%20AI%20|%20UI%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=1000&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student+In+Sri+Lanka;Junior+Developer;Microsoft+Store+App+Developer;%20AI%20|%20UI%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=1000&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Junior Coder. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -184,6 +185,28 @@
 <br/>
 
 
+
+<hr>
+<p align="center">
+
+### 🚀 Published Apps
+
+<p align="center">
+  <a href="https://apps.microsoft.com/store/detail/9N2CLMT77KD0?cid=DevShareMDCPCS" target="_blank">
+    <img src="https://img.shields.io/badge/Oneclick%20Assist-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Oneclick Assist" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://apps.microsoft.com/store/detail/9N2CLMT77KD0?cid=DevShareMDCPCS" target="_blank">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Oneclick Assist</b> is now available on the <b>Microsoft Store</b>! 🎉<br/>
+  Download it today and simplify your workflow with just one click.
+</p>
 
 <hr>
 <p align="center">

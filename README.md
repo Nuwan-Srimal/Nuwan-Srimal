@@ -76,6 +76,61 @@ A published application available through the Microsoft Store.
 ## 📈 Automated GitHub data
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 243.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 347 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+🌆 Daytime                230 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
+🌃 Evening                173 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  148 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Wednesday                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 120 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
+C#                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+
+ Last Updated on 15/08/2026 15:36:28 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats

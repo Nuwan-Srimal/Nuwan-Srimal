@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Nuwan Srimal 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Student · Full-Stack Developer · Machine Learning Enthusiast</b>
+  <b>Cybersecurity Student · Full-Stack Developer · Beginner ML Learner</b>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I'm a Pearson HND in Computing student from Sri Lanka, specializing in cybersecu
 ```js
 const profile = {
   currentlyWorkingOn: "Real-Time Malicious URL Detection Using Machine Learning",
-  learning: ["Cybersecurity", "Machine Learning", "Full-Stack Development"],
+  learning: ["Cybersecurity", "Beginner Machine Learning", "Full-Stack Development"],
   interests: ["Secure web apps", "Automation", "IoT", "UI/UX & Graphic Design"],
   askMeAbout: ["JavaScript", "React", "Node.js", "Python"]
 };
@@ -44,11 +44,11 @@ const profile = {
 | **Machine learning** | Python, scikit-learn, SHAP |
 | **Cybersecurity** | Malicious URL detection, phishing analysis, secure web concepts |
 | **Automation & IoT** | Arduino, ESP8266, biometric-attendance concepts |
-| **Design** | UI/UX, Adobe Illustrator, InDesign, Lightroom, Premiere Pro, Canva |
+| **Design** | UI/UX, Adobe Photoshop, InDesign, Lightroom, Premiere Pro, Canva |
 
 ## Selected projects
 
-### 🔐 [Real-Time Malicious URL Detection Using Machine Learning](https://github.com/Nuwan-Srimal/Real-Time-Web-Application-for-Malicious-URL-Detection-Using-Machine-Learning)
+### 🔐 [Real-Time Malicious URL Detection Using Machine Learning](https://github.com/Nuwan-Srimal/Real-Time-Web-Application-for-Malicious-URL-Detection-Using-Machine-Learning)\n\n[Live demo →](https://real-time-web-application-for-malic.vercel.app/)
 
 A cybersecurity and ML research project for local, real-time URL analysis. It uses lexical and structural URL features, compares ML models, and provides explainable predictions.
 
@@ -72,6 +72,11 @@ Practical work exploring employee-attendance automation and biometric-attendance
 A published application available through the Microsoft Store.
 
 [![Get OneClick Assist from Microsoft Store](https://img.shields.io/badge/Microsoft_Store-OneClick_Assist-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://apps.microsoft.com/store/detail/9N2CLMT77KD0?cid=DevShareMDCPCS)
+
+## 📈 Automated GitHub data
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## GitHub stats
 

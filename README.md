@@ -2,115 +2,89 @@
   <img src="https://raw.githubusercontent.com/Nuwan-Srimal/Nuwan-Srimal/main/Banner.gif" alt="Nuwan Srimal animated banner" width="100%" />
 </p>
 
-<h1 align="center">Nuwan Srimal</h1>
-
-<p align="center"><b>Cybersecurity Student · Full-Stack Developer · Machine Learning Enthusiast</b></p>
-<p align="center">Building practical, secure, and thoughtfully designed software from Sri Lanka.</p>
+<h1 align="center">Hi, I'm Nuwan Srimal 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Nuwan-Srimal"><img src="https://img.shields.io/badge/GitHub-Nuwan--Srimal-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
-  <a href="https://instagram.com/nuwan_srimal_"><img src="https://img.shields.io/badge/Instagram-@nuwan__srimal__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
-  <a href="mailto:nuwan79723@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Nuwan" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Nuwan-Srimal&style=flat-square&color=0e75b6" alt="Profile views" />
+  <b>Cybersecurity Student · Full-Stack Developer · Machine Learning Enthusiast</b>
 </p>
 
-## 👋 A little about me
+<p align="center">
+  I build practical web applications, security-focused tools, and polished digital experiences.
+</p>
+
+<p align="center">
+  <a href="mailto:nuwan79723@gmail.com"><img src="https://img.shields.io/badge/Email-nuwan79723%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Nuwan Srimal" /></a>
+  <a href="https://instagram.com/nuwan_srimal_"><img src="https://img.shields.io/badge/Instagram-@nuwan__srimal__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/Nuwan-Srimal"><img src="https://img.shields.io/badge/GitHub-Nuwan--Srimal-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
+
+## About me
+
+I'm a Pearson HND in Computing student from Sri Lanka, specializing in cybersecurity. My work combines secure software concepts, full-stack development, machine learning, automation, IoT, UI/UX, and graphic design.
 
 ```js
-const nuwan = {
-  location: "Sri Lanka",
-  education: "Pearson HND in Computing",
-  specialization: "Cybersecurity",
-  interests: ["secure web applications", "machine learning", "automation & IoT", "UI/UX and graphic design"],
-  currentlyBuilding: "Real-Time Malicious URL Detection Using Machine Learning"
+const profile = {
+  currentlyWorkingOn: "Real-Time Malicious URL Detection Using Machine Learning",
+  learning: ["Cybersecurity", "Machine Learning", "Full-Stack Development"],
+  interests: ["Secure web apps", "Automation", "IoT", "UI/UX & Graphic Design"],
+  askMeAbout: ["JavaScript", "React", "Node.js", "Python"]
 };
 ```
 
-I enjoy turning practical ideas into usable software—whether that means a security-focused web tool, an e-commerce experience, or an automation system. I care about both how a product works and how it feels to use.
+## Tools & technology
 
-## 🚀 Selected work
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,php,html,css,react,vite,tailwind,nodejs,express,mongodb,sqlite,git,arduino&perline=17" alt="Technology stack: JavaScript, Python, React, Node.js and more" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Focus | Technologies |
+| --- | --- |
+| **Frontend** | React, Vite, Tailwind CSS, HTML, CSS |
+| **Backend & data** | Node.js, Express, REST APIs, MongoDB, SQLite |
+| **Machine learning** | Python, scikit-learn, SHAP |
+| **Cybersecurity** | Malicious URL detection, phishing analysis, secure web concepts |
+| **Automation & IoT** | Arduino, ESP8266, biometric-attendance concepts |
+| **Design** | UI/UX, Adobe Illustrator, InDesign, Lightroom, Premiere Pro, Canva |
 
-### 🔐 Malicious URL Detection
-[View repository →](https://github.com/Nuwan-Srimal/Real-Time-Web-Application-for-Malicious-URL-Detection-Using-Machine-Learning)
+## Selected projects
 
-A final-year cybersecurity × machine-learning research project for real-time malicious URL detection. It analyzes URLs locally, extracts lexical and structural features, and presents explainable predictions.
+### 🔐 [Real-Time Malicious URL Detection Using Machine Learning](https://github.com/Nuwan-Srimal/Real-Time-Web-Application-for-Malicious-URL-Detection-Using-Machine-Learning)
 
-**Built with:** React, Vite, Flask, Python, scikit-learn, SHAP, SQLite
+A cybersecurity and ML research project for local, real-time URL analysis. It uses lexical and structural URL features, compares ML models, and provides explainable predictions.
 
-</td>
-<td width="50%" valign="top">
+**React · Vite · Flask · Python · scikit-learn · SHAP · SQLite**
 
-### ✨ Crystal Beauty Clear
-[Frontend →](https://github.com/Nuwan-Srimal/crystal-beauty-clear-frontend) · [Backend →](https://github.com/Nuwan-Srimal/crystal-beauty-clear-backend)
+### ✨ [Crystal Beauty Clear](https://github.com/Nuwan-Srimal/crystal-beauty-clear-frontend)
 
-A beauty and skincare e-commerce platform with product discovery, cart and checkout flows, authentication, and an admin dashboard for product, order, and user management.
+A full-stack beauty and skincare e-commerce platform with product discovery, cart and checkout, authentication, and an admin dashboard for product, order, and user management.
 
-**Built with:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB
+**React · Vite · Tailwind CSS · Node.js · Express · MongoDB**  
+[Frontend](https://github.com/Nuwan-Srimal/crystal-beauty-clear-frontend) · [Backend](https://github.com/Nuwan-Srimal/crystal-beauty-clear-backend)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 Automated Attendance System
-[View repository →](https://github.com/Nuwan-Srimal/automated-employee-attendance-system)
+### 🧾 [Automated Employee Attendance System](https://github.com/Nuwan-Srimal/automated-employee-attendance-system)
 
 Practical work exploring employee-attendance automation and biometric-attendance concepts.
 
-**Focus:** automation, employee management, desktop and IoT workflows
-
-</td>
-<td width="50%" valign="top">
+**Automation · Employee management · Desktop & IoT workflows**
 
 ### 🪟 OneClick Assist
-[Get it from Microsoft Store →](https://apps.microsoft.com/store/detail/9N2CLMT77KD0?cid=DevShareMDCPCS)
 
 A published application available through the Microsoft Store.
 
-<a href="https://apps.microsoft.com/store/detail/9N2CLMT77KD0?cid=DevShareMDCPCS"><img src="https://img.shields.io/badge/Microsoft_Store-OneClick_Assist-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="OneClick Assist on Microsoft Store" /></a>
+[![Get OneClick Assist from Microsoft Store](https://img.shields.io/badge/Microsoft_Store-OneClick_Assist-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://apps.microsoft.com/store/detail/9N2CLMT77KD0?cid=DevShareMDCPCS)
 
-</td>
-</tr>
-</table>
-
-## 🧰 Skills I work with
-
-| Area | Tools & technologies |
-| --- | --- |
-| **Languages** | JavaScript, Python, Java, C, C++, PHP |
-| **Web development** | React, Vite, Tailwind CSS, Node.js, Express, REST APIs |
-| **Data & ML** | MongoDB, SQLite, scikit-learn, SHAP |
-| **Cybersecurity** | Malicious URL detection, phishing analysis, secure web concepts |
-| **Automation & IoT** | Arduino, ESP8266, biometric-attendance concepts, desktop applications |
-| **Design** | UI/UX, Adobe Illustrator, InDesign, Lightroom, Premiere Pro, Canva |
+## GitHub stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,php,react,vite,tailwind,nodejs,express,mongodb,git,arduino&perline=14" alt="Technology icons for Nuwan's stack" />
-</p>
-
-## 📌 What I’m focused on
-
-- Developing a privacy-aware, explainable approach to malicious URL detection
-- Strengthening full-stack skills through real-world applications
-- Building automation systems that solve everyday workflow problems
-- Creating clear, polished interfaces alongside functional software
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nuwan-Srimal&show_icons=true&hide_border=true&theme=transparent" alt="Nuwan Srimal's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Srimal&layout=compact&hide_border=true&theme=transparent" alt="Nuwan Srimal's top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nuwan-Srimal&show_icons=true&hide_border=true&theme=transparent" alt="Nuwan Srimal's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Srimal&layout=compact&hide_border=true&theme=transparent" alt="Nuwan Srimal's top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nuwan-Srimal&hide_border=true&theme=transparent" alt="Nuwan Srimal's GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nuwan-Srimal&hide_border=true&theme=transparent" alt="Nuwan Srimal's contribution streak" />
 </p>
 
-## 🤝 Let’s connect
+## Connect
 
 I’m open to opportunities to learn, collaborate, and contribute to meaningful software projects.
 

@@ -13,9 +13,9 @@ jobs:
     name: Update GitHub activity
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v5
         with:
-          GH_TOKEN: ${{ secrets.README_STATS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_UPDATED_DATE: "True"
           SHOW_COMMIT: "True"

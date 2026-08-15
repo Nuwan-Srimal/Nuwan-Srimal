@@ -48,11 +48,13 @@ const profile = {
 
 ## Selected projects
 
-### 🔐 [Real-Time Malicious URL Detection Using Machine Learning](https://github.com/Nuwan-Srimal/Real-Time-Web-Application-for-Malicious-URL-Detection-Using-Machine-Learning)\n\n[Live demo →](https://real-time-web-application-for-malic.vercel.app/)
+### 🔐 [Real-Time Malicious URL Detection Using Machine Learning](https://github.com/Nuwan-Srimal/Real-Time-Web-Application-for-Malicious-URL-Detection-Using-Machine-Learning)\n\n
 
 A cybersecurity and ML research project for local, real-time URL analysis. It uses lexical and structural URL features, compares ML models, and provides explainable predictions.
 
 **React · Vite · Flask · Python · scikit-learn · SHAP · SQLite**
+
+[Live demo →](https://real-time-web-application-for-malic.vercel.app/)
 
 ### ✨ [Crystal Beauty Clear](https://github.com/Nuwan-Srimal/crystal-beauty-clear-frontend)
 

@@ -76,8 +76,8 @@ A published application available through the Microsoft Store.
 ## GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nuwan-Srimal&show_icons=true&hide_border=true&theme=transparent" alt="Nuwan Srimal's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan-Srimal&layout=compact&hide_border=true&theme=transparent" alt="Nuwan Srimal's top languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nuwan-Srimal&theme=github_dark" alt="Nuwan Srimal's GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nuwan-Srimal&theme=github_dark" alt="Nuwan Srimal's top languages" />
 </p>
 
 <p align="center">

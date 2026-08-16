@@ -78,13 +78,11 @@ A published application available through the Microsoft Store.
 ## 📈 Automated GitHub data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 243.1 kB Used in GitHub's Storage 
  > 
-> 🏆 347 Contributions in the Year 2026
+> 🏆 350 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -95,28 +93,57 @@ A published application available through the Microsoft Store.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-🌆 Daytime                230 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌃 Evening                173 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+🌞 Morning                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+🌆 Daytime                230 commits         █████████░░░░░░░░░░░░░░░░   35.88 % 
+🌃 Evening                176 commits         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Tuesday                  148 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Wednesday                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Saturday                 120 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Tuesday                  148 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+Wednesday                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Saturday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.55 % 
+XAML                     4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.24 % 
+HTML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 hrs 20 mins (100.0%)
+
+✍️ 917 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 236,377 Input Tokens, 21,742 Output Tokens
+
+💵 $2.38 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 96 AI Prompts
+
+Gemini                   1,091 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 249 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +159,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 15:47:04 UTC
+ Last Updated on 16/08/2026 00:41:12 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats

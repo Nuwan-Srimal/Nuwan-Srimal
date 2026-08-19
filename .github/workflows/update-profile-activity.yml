@@ -30,3 +30,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_AI_CODING: "False"

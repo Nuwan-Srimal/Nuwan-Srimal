@@ -146,7 +146,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nuwan-Srimal&hide_border=true&theme=transparent" alt="Nuwan Srimal's contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Nuwan-Srimal&hide_border=true&theme=transparent" alt="Nuwan Srimal's contribution streak" />
 </p>
 
 ## Connect

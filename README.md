@@ -84,34 +84,34 @@ A published application available through the Microsoft Store.
 
 **🐱 My GitHub Data** 
 
-> 📦 243.1 kB Used in GitHub's Storage 
+> 📦 245.4 kB Used in GitHub's Storage 
  > 
-> 🏆 351 Contributions in the Year 2026
+> 🏆 369 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-🌆 Daytime                231 commits         █████████░░░░░░░░░░░░░░░░   35.98 % 
-🌃 Evening                176 commits         ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+🌞 Morning                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+🌆 Daytime                247 commits         █████████░░░░░░░░░░░░░░░░   37.48 % 
+🌃 Evening                176 commits         ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Tuesday                  148 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Wednesday                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Saturday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Tuesday                  165 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+Wednesday                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Saturday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 
@@ -119,25 +119,25 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.55 % 
-XAML                     4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.24 % 
-HTML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Other                    6 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.30 % 
+C#                       4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+XAML                     4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 16 hrs 8 mins (100.0%)
 
 ✍️ 917 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 236,377 Input Tokens, 21,742 Output Tokens
+🔤 1,694,469 Input Tokens, 78,798 Output Tokens
 
-💵 $2.38 Estimated AI Cost This Week
+💵 $14.87 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 96 AI Prompts
+🧠 10 AI Sessions, 210 AI Prompts
 
 Gemini                   1,091 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -145,25 +145,25 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 249 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📄 Detailed Prompter — average 579 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
-C#                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+C#                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
 
 
- Last Updated on 18/08/2026 00:39:07 UTC
+ Last Updated on 19/08/2026 00:39:07 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats

@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nuwan79723@gmail.com"><img src="https://img.shields.io/badge/Email-nuwan79723%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Nuwan Srimal" /></a>
-  <a href="https://instagram.com/nuwan_srimal_"><img src="https://img.shields.io/badge/Instagram-@nuwan__srimal__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/Nuwan-Srimal"><img src="https://img.shields.io/badge/GitHub-Nuwan--Srimal-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="mailto:nuwan79723@gmail.com"><img src="https://img.shields.io/badge/Email-ClickHere-EA4335?style=flat-round&logo=gmail&logoColor=white" alt="Email Nuwan Srimal" /></a>
+  <a href="https://instagram.com/nuwan_srimal_"><img src="https://img.shields.io/badge/Instagram-@nuwan__srimal__-E4405F?style=flat-round&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/Nuwan-Srimal"><img src="https://img.shields.io/badge/GitHub-Nuwan--Srimal-181717?style=flat-round&logo=github" alt="GitHub" /></a>
 </p>
 
 ## About me

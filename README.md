@@ -78,8 +78,6 @@ A published application available through the Microsoft Store.
 ## 📈 Automated GitHub data
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%208%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 246.7 kB Used in GitHub's Storage 

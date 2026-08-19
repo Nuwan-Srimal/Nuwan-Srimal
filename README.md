@@ -78,15 +78,15 @@ A published application available through the Microsoft Store.
 ## 📈 Automated GitHub data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 245.4 kB Used in GitHub's Storage 
+> 📦 246.7 kB Used in GitHub's Storage 
  > 
-> 🏆 369 Contributions in the Year 2026
+> 🏆 385 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -97,21 +97,21 @@ A published application available through the Microsoft Store.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-🌆 Daytime                247 commits         █████████░░░░░░░░░░░░░░░░   37.48 % 
-🌃 Evening                176 commits         ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌞 Morning                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+🌆 Daytime                247 commits         █████████░░░░░░░░░░░░░░░░   36.59 % 
+🌃 Evening                176 commits         ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  165 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Wednesday                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Saturday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Tuesday                  165 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Saturday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 
@@ -124,6 +124,30 @@ C#                       4 hrs 3 mins        ██████░░░░░�
 XAML                     4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
 HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 8 mins (100.0%)
+
+✍️ 917 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,694,469 Input Tokens, 78,798 Output Tokens
+
+💵 $14.87 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 210 AI Prompts
+
+Gemini                   1,091 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 579 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,7 +163,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 00:39:07 UTC
+ Last Updated on 19/08/2026 05:41:45 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats

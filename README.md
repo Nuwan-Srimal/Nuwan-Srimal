@@ -94,7 +94,7 @@ A published application available through the Microsoft Store.
 
 ```text
 🌞 Morning                126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-🌆 Daytime                247 commits         █████████░░░░░░░░░░░░░░░░   36.32 % 
+🌆 Daytime                247 commits         █████████░░░░░░░░░░░░░░░░░   36.32 % 
 🌃 Evening                176 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
 🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
 ```
@@ -106,7 +106,7 @@ Tuesday                  165 commits         ██████░░░░░�
 Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Saturday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Saturday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░░   18.09 % 
 Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
@@ -118,7 +118,7 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 Other                    6 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.30 % 
 C#                       4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
 XAML                     4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 
@@ -143,10 +143,6 @@ CSS                      2 repos             ██░░░░░░░░░�
 <p align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nuwan-Srimal&theme=github_dark" alt="Nuwan Srimal's GitHub stats" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nuwan-Srimal&theme=github_dark" alt="Nuwan Srimal's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nuwan-Srimal&hide_border=true&theme=transparent" alt="Nuwan Srimal's contribution streak" />
 </p>
 
 ## Connect

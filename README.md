@@ -115,11 +115,9 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 41 mins       ████████████████░░░░░░░░░   64.88 % 
-TypeScript               1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-HTML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-C#                       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-XAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Other                    6 hrs 41 mins       ███████████████████░░░░░░   74.39 % 
+TypeScript               1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,7 +133,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 00:41:48 UTC
+ Last Updated on 22/08/2026 00:39:35 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats

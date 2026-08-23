@@ -80,9 +80,9 @@ A published application available through the Microsoft Store.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 246.8 kB Used in GitHub's Storage 
+> 📦 247.2 kB Used in GitHub's Storage 
  > 
-> 🏆 396 Contributions in the Year 2026
+> 🏆 399 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,21 +93,21 @@ A published application available through the Microsoft Store.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                132 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-🌆 Daytime                247 commits         █████████░░░░░░░░░░░░░░░░   36.01 % 
-🌃 Evening                176 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌞 Morning                135 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+🌆 Daytime                247 commits         █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌃 Evening                176 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Tuesday                  165 commits         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Thursday                 88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Tuesday                  165 commits         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Thursday                 88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Saturday                 126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Sunday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
@@ -115,25 +115,25 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 41 mins       ███████████████████░░░░░░   74.39 % 
-TypeScript               1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Other                    6 hrs 41 mins       ███████████████████░░░░░░   76.53 % 
+TypeScript               1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               10 repos            ████████████░░░░░░░░░░░░░   47.62 % 
 C#                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 22/08/2026 00:39:35 UTC
+ Last Updated on 23/08/2026 00:42:24 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats

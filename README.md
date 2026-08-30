@@ -115,11 +115,8 @@ Sunday                   8 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    51 mins             ████████████████░░░░░░░░░   62.35 % 
-TypeScript               20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    51 mins             ████████████████████████░   95.62 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,7 +132,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 04:46:29 UTC
+ Last Updated on 30/08/2026 02:23:44 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
